@@ -1,4 +1,4 @@
-# Hi, I'm Hadis Arefanjazi
+# Hi, I'm Hadis 
 
 Ph.D. Candidate in Electrical Engineering at Binghamton University, working on **human-AI decision-making, attention allocation, reinforcement learning, optimization, and AI systems**.
 
