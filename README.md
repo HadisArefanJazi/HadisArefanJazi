@@ -1,158 +1,72 @@
-# Hi, I'm Hadis Arefanjazi
+# Hi there, I'm Hadis Arefanjazi
 
-Ph.D. Candidate in Electrical Engineering at Binghamton University, working at the intersection of **human-AI decision-making, attention allocation, optimization, and AI system development**.
+I am a Ph.D. candidate in Electrical Engineering at Binghamton University, working on **attention allocation, sequential information acquisition, optimization, and human-AI decision-making**.
 
-I develop research and engineering solutions involving reinforcement learning, Retrieval-Augmented Generation (RAG), machine learning, APIs, and data pipelines.
+- I study how decision-makers should allocate limited attention across dynamic and noisy information sources.
+- I build practical AI systems with Python, RAG, reinforcement learning, FastAPI, and data-engineering tools.
+- I am especially interested in reliable human-AI collaboration, constrained decision-making, and resource-aware LLM systems.
+- I am currently expanding my work in LLM agents, fine-tuning, MLOps, Docker, and cloud deployment.
 
-## About Me
+## Research Interests
 
-- Ph.D. Candidate in Electrical Engineering at Binghamton University
-- Researching attention allocation and sequential information acquisition in human-AI collaboration
-- Experienced in optimization, resource allocation, reinforcement learning, and machine learning
-- Building practical AI applications using Python, FastAPI, RAG, and data-engineering tools
-- Expanding my expertise in LLM agents, fine-tuning, MLOps, and cloud deployment
-
-## Research Focus
-
-My doctoral research studies **optimal attention allocation for sequential information acquisition in human-AI collaboration**.
-
-I investigate how human decision-makers should allocate limited cognitive attention across dynamic, noisy, and increasingly AI-mediated information sources.
-
-My research combines:
-
-- Rational Inattention theory
-- Reinforcement learning
-- Constrained and convex optimization
-- Sequential decision-making
-- Resource allocation
-- Time-consistent policy analysis
-- Human-AI communication and collaboration
-
-The broader objective is to develop mathematical and computational foundations for more effective, adaptive, and reliable human-AI decision systems.
-
-## Current Engineering Focus
-
-I am currently developing deeper practical expertise in:
-
-- Production-ready Retrieval-Augmented Generation systems
-- LLM applications and AI agents
-- LangGraph-based agent workflows
-- Hugging Face model fine-tuning
-- FastAPI backend development
-- ML experiment tracking and MLOps
-- Docker and cloud deployment
-
-## Core Expertise
-
-### Optimization and Decision-Making
-
-- Convex optimization
-- Constrained optimization
-- Resource allocation
-- Reinforcement learning
-- Sequential decision-making
-- Rational Inattention
-
-### Machine Learning and Generative AI
-
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Hugging Face
-- Large Language Models
-- Retrieval-Augmented Generation
-- Semantic search
-- Embeddings and retrieval evaluation
-
-### Software and Data Engineering
-
-- Python
-- SQL
-- FastAPI
-- REST APIs
-- Apache Airflow
-- ETL pipelines
-- Streamlit
-- SQLite
-- Pandas
-- Tableau and Power BI
+- Rational Inattention and information acquisition
+- Attention allocation in human-AI collaboration
+- Reinforcement learning and resource allocation
+- Constrained optimization and sequential decision-making
+- Retrieval-Augmented Generation and LLM applications
+- Data pipelines, APIs, and applied AI systems
 
 ## Featured Projects
 
-### [Adaptive RAG Context Allocation with Reinforcement Learning](https://github.com/HadisArefanJazi/adaptive-rag-rl-context-allocation)
+### AI and Retrieval Systems
 
-A research-oriented AI system that learns how to allocate limited RAG context using reinforcement learning under token-budget and latency constraints.
+- [adaptive-rag-rl-context-allocation](https://github.com/HadisArefanJazi/adaptive-rag-rl-context-allocation)  
+  Reinforcement-learning framework for allocating limited RAG context under token-budget and latency constraints.
 
-**Key areas:** Reinforcement learning, RAG, resource allocation, constrained decision-making
+- [smart-faq-rag-search](https://github.com/HadisArefanJazi/smart-faq-rag-search)  
+  FAQ retrieval system using TF-IDF, sentence embeddings, semantic similarity, reranking, and retrieval evaluation.
 
----
+### APIs and Data Engineering
 
-### [Smart FAQ RAG Search](https://github.com/HadisArefanJazi/smart-faq-rag-search)
+- [student-enrollment-api-chatbot](https://github.com/HadisArefanJazi/student-enrollment-api-chatbot)  
+  FastAPI application that interprets natural-language questions and retrieves student enrollment data through a REST API.
 
-A FAQ retrieval system that combines TF-IDF, semantic similarity, sentence embeddings, reranking, grounded prompts, and retrieval evaluation.
+- [airflow-weather-etl](https://github.com/HadisArefanJazi/airflow-weather-etl)  
+  Scheduled Apache Airflow pipeline for extracting, transforming, and storing daily weather data.
 
-**Key areas:** RAG, semantic search, Sentence Transformers, cosine similarity, retrieval evaluation
+### Research Implementations
 
----
+- [myopic-attention-allocation-frobenius](https://github.com/HadisArefanJazi/myopic-attention-allocation-frobenius)  
+  Research implementation of myopic attention-allocation policies using a Frobenius-norm information measure.
 
-### [Student Enrollment API Chatbot](https://github.com/HadisArefanJazi/student-enrollment-api-chatbot)
+- [myopic-attention-allocation-mutual-information](https://github.com/HadisArefanJazi/myopic-attention-allocation-mutual-information)  
+  Research implementation of myopic attention-allocation policies using mutual information as the attention measure.
 
-A FastAPI application and terminal chatbot that interprets user questions, queries enrollment information through an API, and returns the corresponding results.
+## Technical Focus
 
-**Key areas:** FastAPI, REST APIs, Python, natural-language query processing
+**Languages and tools:** Python, SQL, FastAPI, Apache Airflow, Git, Docker, Pandas, NumPy, SciPy, Scikit-learn
 
----
+**AI and ML:** Retrieval-Augmented Generation, semantic search, embeddings, reinforcement learning, TensorFlow, PyTorch, Hugging Face
 
-### [Airflow Weather ETL Pipeline](https://github.com/HadisArefanJazi/airflow-weather-etl)
-
-A scheduled ETL pipeline that extracts weather data from an external API, transforms JSON responses into structured records, and maintains a historical dataset.
-
-**Key areas:** Apache Airflow, ETL, APIs, Python, data engineering
+**Methods:** optimization, resource allocation, sequential decision-making, rational inattention, evaluation and experiment design
 
 ## Education
 
-### Binghamton University
+- **Ph.D. in Electrical Engineering**, Binghamton University, 2023-present  
+  Dissertation: *Optimal Attention Allocation for Sequential Information Acquisition in Human-AI Communication*
 
-**Ph.D. in Electrical Engineering**  
-2023-Present
+- **M.S. in Control Engineering**, University of Isfahan, 2018-2021  
+  Dissertation: *Design of a Robust Distributed Observer for Lipschitz Nonlinear Systems*
 
-Dissertation:
+## Publications
 
-> Optimal Attention Allocation for Sequential Information Acquisition in Human-AI Communication
+My research includes work on dynamic information acquisition, rational inattention, human-AI decision-making, distributed state estimation, and nonlinear multi-agent systems.
 
-### University of Isfahan
+View my publication record on [Google Scholar](https://scholar.google.com/citations?hl=en&user=QAln9-gAAAAJ).
 
-**M.S. in Control Engineering**  
-2018-2021
+## Connect
 
-Dissertation:
-
-> Design of a Robust Distributed Observer for Lipschitz Nonlinear Systems
-
-## Certifications
-
-- **Databases and SQL for Data Science with Python** - IBM
-- **Generative AI with Large Language Models** - DeepLearning.AI and Amazon Web Services
-- **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** - DeepLearning.AI
-- **Siemens PLC and TIA Portal Essentials** - Packt
-
-## Publications and Research
-
-My research includes work in:
-
-- Human-AI decision-making
-- Dynamic information acquisition
-- Rational Inattention
-- Attention and resource allocation
-- Distributed state estimation
-- Nonlinear multi-agent systems
-
-View my complete publication record on [Google Scholar](https://scholar.google.com/citations?hl=en&user=QAln9-gAAAAJ).
-
-## Connect With Me
-
-- [Personal Website and Academic CV](https://hadis-arefanjazi.netlify.app/)
+- [Personal website and academic CV](https://hadis-arefanjazi.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/hadis-arefanjazi-583b86214)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=QAln9-gAAAAJ)
-- [GitHub](https://github.com/HadisArefanJazi)
 - [Email](mailto:harefan1@binghamton.edu)
