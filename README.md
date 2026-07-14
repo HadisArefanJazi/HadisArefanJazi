@@ -1,4 +1,4 @@
-# Hi, I'm Hadis 
+# Hi, I'm Hadis :wave:
 
 Ph.D. Candidate in Electrical Engineering at Binghamton University, working on **human-AI decision-making, attention allocation, reinforcement learning, optimization, and AI systems**.
 
