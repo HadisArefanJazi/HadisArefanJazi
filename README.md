@@ -87,7 +87,7 @@ A research-oriented AI system that learns how to allocate limited RAG context us
 
 ---
 
-### [Smart FAQ RAG Search System](https://github.com/HadisArefanJazi/smart-faq-rag-search)
+### [Smart FAQ RAG Search](https://github.com/HadisArefanJazi/smart-faq-rag-search)
 
 A FAQ retrieval system that combines TF-IDF, semantic similarity, sentence embeddings, reranking, grounded prompts, and retrieval evaluation.
 
@@ -95,7 +95,7 @@ A FAQ retrieval system that combines TF-IDF, semantic similarity, sentence embed
 
 ---
 
-### [Student Enrollment API and Query Chatbot](https://github.com/HadisArefanJazi/student-enrollment-api-chatbot)
+### [Student Enrollment API Chatbot](https://github.com/HadisArefanJazi/student-enrollment-api-chatbot)
 
 A FastAPI application and terminal chatbot that interprets user questions, queries enrollment information through an API, and returns the corresponding results.
 
@@ -103,7 +103,7 @@ A FastAPI application and terminal chatbot that interprets user questions, queri
 
 ---
 
-### [Daily Weather ETL Pipeline with Apache Airflow](https://github.com/HadisArefanJazi/airflow-weather-etl)
+### [Airflow Weather ETL Pipeline](https://github.com/HadisArefanJazi/airflow-weather-etl)
 
 A scheduled ETL pipeline that extracts weather data from an external API, transforms JSON responses into structured records, and maintains a historical dataset.
 
