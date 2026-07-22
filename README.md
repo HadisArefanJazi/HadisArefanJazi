@@ -16,11 +16,11 @@ Ph.D. Candidate in Electrical Engineering at Binghamton University, working on *
 
 RL-based allocation of limited RAG context under token-budget and latency constraints.
 
-### [Smart FAQ RAG Search](https://github.com/HadisArefanJazi/smart-faq-rag-search)
+### [Smart FAQ Retrieval System](https://github.com/HadisArefanJazi/smart-faq-rag-search)
 
 Hybrid FAQ retrieval using TF-IDF, sentence embeddings, reranking, and retrieval evaluation.
 
-### [Student Enrollment API Chatbot](https://github.com/HadisArefanJazi/student-enrollment-api-chatbot)
+### [Student Enrollment REST API and Terminal Chatbot](https://github.com/HadisArefanJazi/student-enrollment-api-chatbot)
 
 FastAPI chatbot for natural-language access to student enrollment data.
 
